@@ -1,4 +1,4 @@
-# semantic-ui-theming
+# Semantic UI theming using Parcel and React.JS
 > This is a step by step guide on how to set-up and use SemanticUI theming in a Parcel React.js app.
 ### Setup
 1. Install the following dependecies
